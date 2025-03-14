@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Avengers: Endgame",
+    "posterUrl": "/images/avengers download (1).jpg",
+    "rating": 4.9,
+    "releaseDate": "2019-04-26"
+  },
+  {
+    "id": 2,
+    "title": "Pirates of the Caribbean",
+    "posterUrl": "/images/jack sparrow download (1).jpg",
+    "rating": 4.7,
+    "releaseDate": "2003-07-09"
+  },
+  {
+    "id": 3,
+    "title": "Parasite",
+    "posterUrl": "/images/parasite.jpg",
+    "rating": 4.8,
+    "releaseDate": "2019-05-30"
+  },
+  {
+    "id": 4,
+    "title": "The Dark Knight",
+    "posterUrl": "/images/The Dark Knight.jpg",
+    "rating": 4.9,
+    "releaseDate": "2008-07-18"
+  },
+  {
+    "id": 5,
+    "title": "The Godfather",
+    "posterUrl": "/images/The god father.jpg",
+    "rating": 4.8,
+    "releaseDate": "1972-03-24"
+  },
+  {
+    "id": 6,
+    "title": "The Lion King",
+    "posterUrl": "/images/the-lion-king.jpg",
+    "rating": 4.7,
+    "releaseDate": "2019-07-19"
+  },
+  {
+    "id": 7,
+    "title": "Venom: Let There Be Carnage",
+    "posterUrl": "/images/Venom download (1).jpg",
+    "rating": 4.5,
+    "releaseDate": "2021-10-01"
+  },
+  {
+    "id": 8,
+    "title": "Inception",
+    "posterUrl": "/images/Inception.jpg",
+    "rating": 4.8,
+    "releaseDate": "2010-07-16"
+  },
+  {
+    "id": 9,
+    "title": "Interstellar",
+    "posterUrl": "/images/Interstellar.jpg",
+    "rating": 4.7,
+    "releaseDate": "2014-11-07"
+  },
+  {
+    "id": 10,
+    "title": "King Kong",
+    "posterUrl": "/images/king kong download (1).jpg",
+    "rating": 4.6,
+    "releaseDate": "2005-12-14"
+  }
+]
